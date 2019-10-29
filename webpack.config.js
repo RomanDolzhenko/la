@@ -8,6 +8,7 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
     mode: 'production',
+    devtool: 'eval',
     entry: {
         // frontend: path.resolve(__dirname, './node_modules/admin-lte/dist/js', 'frontend.js'),
         backend: path.resolve(__dirname, './node_modules/admin-lte/dist/js', 'adminlte.js')
