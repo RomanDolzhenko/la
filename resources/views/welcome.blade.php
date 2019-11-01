@@ -96,5 +96,7 @@
                 </div>
             </div>
         </div>
+
+        <script src="/dist/backend.js"></script>
     </body>
 </html>

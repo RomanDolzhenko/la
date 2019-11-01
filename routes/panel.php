@@ -1,9 +1,6 @@
 <?php
 
-Route::group([ 'namespace' => 'Panel' ], function () {
-
-    Route::get('/', function () {
-        return view('welcome');
-    });
+Route::group([ 'prefix' => '/', 'namespace' => 'Panel' ], function () {
+    Route::get('/', 'PanelController@index');
 
 });
