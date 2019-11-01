@@ -2,71 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2aaca263-ad43-41ad-80b7-10d5d8977f02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_ide_helper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Panel/PanelController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Panel/SeoController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Seo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2019_10_30_115636_create_seo_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/admin/js/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/AdminLTELogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/boxed-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/boxed-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/american-express.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/cirrus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/mastercard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/mestro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/paypal2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/visa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/default-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/prod-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/prod-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/prod-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/prod-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/prod-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user1-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user2-160x160.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user3-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user4-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user5-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user6-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user7-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user8-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/css/back.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/panel/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/panel/block/seo.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/panel/panel/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/panel/panel/head.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/panel/panel/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/panel/panel/sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/panel/panel/top-nav.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/la.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/la.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/panel.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/panel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +199,7 @@
       <workItem from="1572509380981" duration="123000" />
       <workItem from="1572510072051" duration="486000" />
       <workItem from="1572510581777" duration="13788000" />
-      <workItem from="1572612183272" duration="7093000" />
+      <workItem from="1572612183272" duration="7878000" />
     </task>
     <task id="LOCAL-00001" summary="dasf">
       <created>1572334314669</created>
@@ -293,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572352458487</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="crate admin">
+      <created>1572619351322</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572619351322</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +260,7 @@
     <MESSAGE value="dasfasd" />
     <MESSAGE value="webpack" />
     <MESSAGE value="do" />
-    <option name="LAST_COMMIT_MESSAGE" value="do" />
+    <MESSAGE value="crate admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="crate admin" />
   </component>
 </project>
