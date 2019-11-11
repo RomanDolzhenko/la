@@ -1,4 +1,7 @@
 <footer class="main-footer">
+
+    <script src="{{ mix('admin/js/all.js') }}"></script>
+
     <div class="float-right d-none d-sm-block">
         <b>Version</b> 3.0.0-rc.5
     </div>
